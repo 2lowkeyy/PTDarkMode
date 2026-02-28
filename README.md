@@ -67,4 +67,4 @@ No files are patched or modified. Removing the DLLs fully restores Pro Tools to 
 This project is not affiliated with or endorsed by Avid Technology. Use at your own risk. DLL injection may conflict with Pro Tools' copy protection or support agreements — you are responsible for any issues that arise.
 
 ## Note
-Uncommented code and 
+Uncommented code. This is my first project in C++, and honestly the code is not a great example of how to write C++, but it works. Soon I will be adding comments and optimizing certain parts of the code, as well as fixing some bugs present in the current version.
