@@ -36,7 +36,7 @@ To uninstall, delete both DLL files from the Pro Tools folder.
 
 - Windows 10 version 1903 or later (Windows 11 recommended)
 - Pro Tools (any modern version)
-- [Visual C++ Redistributable 2022 x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- [Visual C++ Redistributable 2022 x64](https://aka.ms/vc14/vc_redist.x64.exe)
 
 ## Building from Source
 
