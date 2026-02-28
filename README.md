@@ -1,4 +1,4 @@
-# PTDarkMenu
+# PTDarkMode
 
 Dark theme injection for Pro Tools on Windows. Turns the white menu bar, window captions, and plugin title bars dark without modifying Pro Tools itself. Just drop two DLLs in the install folder and you're done.
 
